@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Your Name - your.email@example.com
+Đại Tài - trandaitai327@gmail.com
 
 ## 🙏 Acknowledgments
 
