@@ -100,7 +100,7 @@ Một project PySpark hoàn chỉnh và chuyên nghiệp để phân tích dữ 
 ### 1. Clone repository
 
 ```bash
-git clone [<repository-url>](https://github.com/trandaitai327/spark_document.git)
+git clone https://github.com/trandaitai327/spark_document.git
 cd Spark
 ```
 
